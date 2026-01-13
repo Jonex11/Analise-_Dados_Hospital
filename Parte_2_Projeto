@@ -1,0 +1,20 @@
+Parte 2 do Trabalho:
+
+Tecnologias usadas nessa parte:
+- Python
+
+O que foi Feito:
+
+- Tratativa de dados, usando as Bibliotecas: Pandas, Seaborn e Matplotlib .
+- Renomeação das colunas parafacilidade de leitura, Conversão de colunas de datas em DateTime e valores invalidos em NaT(Not as Time).    
+- Trocar o Nan por "Sem paciente", Criação de uma nova coluna para classificação dos pacientes.
+- Analise de graficos no Python usando o Matplotlib para analise de distribuição de leitos por setor, status do leito (Manutenção, oculpado, desoculpado ou limpeza), leitos oculpados por setor 
+
+Arquivos usados:
+- Pacientes 
+- Leitos
+
+Apos Conlusão foram criados os Arquivos:
+ 
+- Pacientes_Tratados_Pandas 
+- Leitos_Tratados_Pandas
