@@ -1,0 +1,18 @@
+Parte 1 do Trabalho:
+
+Tecnologias usadas nessa parte:
+- Excel & Power Querry
+
+O que foi Feito:
+
+- tratativa de dados, tranformar os dados dos paciente para um padrão em comum entre a tabela de Paciente e a tabela de leitos usando o Power Querry.
+-  Tratar as colunas, trocar os campos vazios para null, criação de uma coluna personalizada e remoção de colunas desnecessarias para a Analise.   
+- Criação de tabela Dinamica com segmentação de daods para analise rápida de quantidade de pacientes por setor e tipo de internação.
+
+Arquivos usados:
+- Pacientes 
+- Leitos
+
+Apos Conlusão:
+
+- Criado o Arquivo Dados tratados
