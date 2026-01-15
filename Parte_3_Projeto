@@ -1,0 +1,18 @@
+Parte 3 do Trabalho:
+
+Tecnologias usadas nessa parte:
+- Power Bi & Power Querry
+
+O que foi Feito:
+
+- Termino da Tratativa de dados usando Power querry  .
+- Criação de dashboards para analise de dados.    
+- Criação de metricas para os Dashboard usando DAX(Calculated,Count, Countrows).
+- Criação dos Dashboards baseados nos indicadores iniciais 
+
+Arquivos usados:
+- Pacientes_Tratados_Pandas 
+- Leitos_Tratados_Pandas
+
+Apos Conlusão foram criados os Arquivos:
+ - Analise_Hospital/VidaPlena
